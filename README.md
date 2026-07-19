@@ -12,8 +12,9 @@
 
 ## How it works
 
-1. **Create** — anyone can launch a token in seconds for a 0.002 ETH fee. Every
-   token has a fixed supply of 1,000,000,000 and the same transparent
+1. **Create** — anyone can launch a token in seconds for free (you only pay
+   network gas). Every token has a fixed supply of 1,000,000,000 and the same
+   transparent
    allocation: **80%** sold on the bonding curve, **10%** reserved for Uniswap
    liquidity, **5%** to the creator, **5%** to a community airdrop.
 2. **Trade** — buys and sells happen on a constant-product bonding curve. Price
@@ -34,7 +35,7 @@
 
 | Fee | Amount | Where it goes |
 | --- | --- | --- |
-| Token creation | 0.002 ETH | protocol |
+| Token creation | free (gas only) | — |
 | Curve trading fee | 1% per trade | 50% creator / 50% protocol |
 | Post-graduation LP fees | Uniswap V3 1% tier | 50% creator / 50% protocol |
 

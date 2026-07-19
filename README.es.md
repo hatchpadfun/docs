@@ -12,8 +12,9 @@
 
 ## Cómo funciona
 
-1. **Crear** — cualquiera puede lanzar un token en segundos por una tarifa de
-   0.002 ETH. Todo token tiene un supply fijo de 1.000.000.000 y la misma
+1. **Crear** — cualquiera puede lanzar un token en segundos gratis (solo pagas
+   el gas de la red). Todo token tiene un supply fijo de 1.000.000.000 y la
+   misma
    asignación transparente: **80%** vendido en la bonding curve, **10%**
    reservado para la liquidez en Uniswap, **5%** para el creador, **5%** para
    un airdrop comunitario.
@@ -37,7 +38,7 @@
 
 | Tarifa | Monto | Destino |
 | --- | --- | --- |
-| Creación de token | 0.002 ETH | protocolo |
+| Creación de token | gratis (solo gas) | — |
 | Tarifa de trade en la curve | 1% por trade | 50% creador / 50% protocolo |
 | Tarifas de LP post-graduación | tier 1% de Uniswap V3 | 50% creador / 50% protocolo |
 
