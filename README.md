@@ -1,3 +1,5 @@
+<p align="center"><a href="README.md">English</a> · <a href="README.pt-BR.md">Português</a> · <a href="README.es.md">Español</a></p>
+
 <p align="center">
   <img src="assets/hatchpad-logo-512.png" width="120" alt="Hatchpad" />
 </p>
